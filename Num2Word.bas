@@ -3,6 +3,7 @@ Option Base 1
 Private cResult As String
 Private lAnd As Boolean
 
+
 Function N2W(nNumber As Double)
 Attribute N2W.VB_ProcData.VB_Invoke_Func = " \n14"
    Dim cNumber As String
